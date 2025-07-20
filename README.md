@@ -7,7 +7,7 @@
 
  Python, SQL, scikit-learn, TensorFlow ve Keras gibi araçlarla çalışıyorum. Şu an aktif olarak **makine öğrenmesi** ve **model deploy** süreçleri üzerine kendimi geliştiriyorum.  
 
- 2025 yılına kadar veri bilimi alanında işe girmek amacıyla proje bazlı öğrenme yolculuğuma devam ediyorum.  
+ Veri bilimi ve yapay zeka alanında kariyer elde etmek amacıyla proje bazlı öğrenme yolculuğuma devam ediyorum.  
  Uzun vadede sermaye piyasası ile yapay zekayı birleştirerek herkesin ulaşabileceği bir online  "Finans Okulu" kurmak istiyorum.
 
 ---
@@ -24,9 +24,9 @@
 
 ---
 
-## 📫 Bana Ulaşın
+##  Bana Ulaşın
 
- halilakalan@example.com *(halilibrahim akalan)*  
+halilibrahimakalan@gmail.com 
 [LinkedIn](https://www.linkedin.com/in/halilakalan)  
 
 ---
