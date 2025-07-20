@@ -8,7 +8,7 @@
  Python, SQL, scikit-learn, TensorFlow ve Keras gibi araçlarla çalışıyorum. Şu an aktif olarak **makine öğrenmesi** ve **model deploy** süreçleri üzerine kendimi geliştiriyorum.  
 
  2025 yılına kadar veri bilimi alanında işe girmek amacıyla proje bazlı öğrenme yolculuğuma devam ediyorum.  
- Uzun vadede sermaye piyasası ile yapay zekayı birleştirerek herkesin ulaşabileceği bir "Finans Okulu" kurmak istiyorum.
+ Uzun vadede sermaye piyasası ile yapay zekayı birleştirerek herkesin ulaşabileceği bir online  "Finans Okulu" kurmak istiyorum.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 📫 Bana Ulaşın
 
- halilakalan@example.com *(gerçek mailini gir)*  
+ halilakalan@example.com *(halilibrahim akalan)*  
 [LinkedIn](https://www.linkedin.com/in/halilakalan)  
 
 ---
